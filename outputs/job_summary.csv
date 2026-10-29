@@ -1,0 +1,9 @@
+job_id,company,criteria,branches,min_cgpa,max_backlogs,batch,status,eligible_count,criteria_source
+J01,Zentrix Software,"CSE, IT, AIDS CGPA 7.5+ max backlogs 0 2027",CSE|IT|AIDS,7.5,0,2027,matched,5,fallback
+J02,Bluepeak Systems,ALL CGPA 6.5+,ALL,6.5,,,matched,19,fallback
+J03,Kovai Motors,"EEE, MECH CGPA 7+ 2027",EEE|MECH,7.0,,2027,matched,3,fallback
+J04,Medilink Health,"CSE, IT CGPA 7.5+ max backlogs 0 2027",CSE|IT,7.5,0,2027,matched,3,fallback
+J05,CloudNest Labs,"ECE, EEE CGPA 6.8+ max backlogs 1",ECE|EEE,6.8,1,,matched,5,fallback
+J06,GreenGrid Energy,"MECH, CIVIL CGPA 6+ 2027",MECH|CIVIL,6.0,,2027,matched,6,fallback
+J07,PixelForge,"CSE, AIDS CGPA 8+ 2027",CSE|AIDS,8.0,,2027,matched,3,fallback
+J08,Northstar Analytics,,,,,,needs_review,0,fallback

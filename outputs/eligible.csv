@@ -1,0 +1,45 @@
+job_id,company,roll,name,branch,cgpa,backlogs,batch
+J01,Zentrix Software,27CS001,Arun Kumar,CSE,8.4,0,2027
+J01,Zentrix Software,27AI003,Meena S,AIDS,7.9,0,2027
+J01,Zentrix Software,27IT009,Janani T,IT,8.1,0,2027
+J01,Zentrix Software,27AI013,Pooja N,AIDS,8.3,0,2027
+J01,Zentrix Software,27CS015,Keerthi M,CSE,8.0,0,2027
+J02,Bluepeak Systems,27CS001,Arun Kumar,CSE,8.4,0,2027
+J02,Bluepeak Systems,27IT002,Lakshmi P,IT,7.0,2,2027
+J02,Bluepeak Systems,26CS010,Gokul R,CSE,8.8,0,2026
+J02,Bluepeak Systems,27AI003,Meena S,AIDS,7.9,0,2027
+J02,Bluepeak Systems,27ME004,Kavin M,MECH,7.2,0,2027
+J02,Bluepeak Systems,27EE005,Divya K,EEE,6.9,1,2027
+J02,Bluepeak Systems,27EC006,Rithik P,ECE,7.1,0,2027
+J02,Bluepeak Systems,27CS008,Pranav V,CSE,7.4,0,2027
+J02,Bluepeak Systems,27IT009,Janani T,IT,8.1,0,2027
+J02,Bluepeak Systems,27ME010,Sanjay B,MECH,6.5,1,2027
+J02,Bluepeak Systems,27EE011,Harini D,EEE,7.8,0,2027
+J02,Bluepeak Systems,26EC012,Vishal A,ECE,8.0,0,2026
+J02,Bluepeak Systems,27AI013,Pooja N,AIDS,8.3,0,2027
+J02,Bluepeak Systems,27CV014,Ajay S,CIVIL,7.0,0,2027
+J02,Bluepeak Systems,27CS015,Keerthi M,CSE,8.0,0,2027
+J02,Bluepeak Systems,27IT016,Dinesh R,IT,6.6,0,2027
+J02,Bluepeak Systems,27EC017,Swetha P,ECE,6.9,1,2027
+J02,Bluepeak Systems,27ME018,Rahul K,MECH,7.6,0,2027
+J02,Bluepeak Systems,26CS020,Mithun L,CSE,7.8,0,2026
+J03,Kovai Motors,27ME004,Kavin M,MECH,7.2,0,2027
+J03,Kovai Motors,27EE011,Harini D,EEE,7.8,0,2027
+J03,Kovai Motors,27ME018,Rahul K,MECH,7.6,0,2027
+J04,Medilink Health,27CS001,Arun Kumar,CSE,8.4,0,2027
+J04,Medilink Health,27IT009,Janani T,IT,8.1,0,2027
+J04,Medilink Health,27CS015,Keerthi M,CSE,8.0,0,2027
+J05,CloudNest Labs,27EE005,Divya K,EEE,6.9,1,2027
+J05,CloudNest Labs,27EC006,Rithik P,ECE,7.1,0,2027
+J05,CloudNest Labs,27EE011,Harini D,EEE,7.8,0,2027
+J05,CloudNest Labs,26EC012,Vishal A,ECE,8.0,0,2026
+J05,CloudNest Labs,27EC017,Swetha P,ECE,6.9,1,2027
+J06,GreenGrid Energy,27ME004,Kavin M,MECH,7.2,0,2027
+J06,GreenGrid Energy,27CV007,Nila R,CIVIL,6.4,0,2027
+J06,GreenGrid Energy,27ME010,Sanjay B,MECH,6.5,1,2027
+J06,GreenGrid Energy,27CV014,Ajay S,CIVIL,7.0,0,2027
+J06,GreenGrid Energy,27ME018,Rahul K,MECH,7.6,0,2027
+J06,GreenGrid Energy,27CV021,Ishita V,CIVIL,6.1,0,2027
+J07,PixelForge,27CS001,Arun Kumar,CSE,8.4,0,2027
+J07,PixelForge,27AI013,Pooja N,AIDS,8.3,0,2027
+J07,PixelForge,27CS015,Keerthi M,CSE,8.0,0,2027

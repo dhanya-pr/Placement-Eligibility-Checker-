@@ -1,0 +1,14 @@
+PLACEMENT ELIGIBILITY CHECKER — SUMMARY
+DRAFT ONLY: placement officer must verify every list before sharing.
+
+J01 | Zentrix Software: 5 eligible | matched
+J02 | Bluepeak Systems: 19 eligible | matched
+J03 | Kovai Motors: 3 eligible | matched
+J04 | Medilink Health: 3 eligible | matched
+J05 | CloudNest Labs: 5 eligible | matched
+J06 | GreenGrid Energy: 6 eligible | matched
+J07 | PixelForge: 3 eligible | matched
+J08 | Northstar Analytics: 0 eligible | needs_review
+
+Students eligible for no matched job yet:
+27EE019 — Ananya G
