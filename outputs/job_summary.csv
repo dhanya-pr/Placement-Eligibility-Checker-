@@ -1,0 +1,9 @@
+job_id,company,branches,min_cgpa,max_backlogs,batch,status,eligible_count
+J01,Zentrix Software,,,,,needs_review,0
+J02,Bluepeak Systems,,,,,needs_review,0
+J03,Kovai Motors,,,,,needs_review,0
+J04,Medilink Health,,,,,needs_review,0
+J05,Aster Data Labs,,,,,needs_review,0
+J06,GreenGrid Energy,,,,,needs_review,0
+J07,BuildRight Infra,,,,,needs_review,0
+J08,Nexa Consulting,,,,,needs_review,0

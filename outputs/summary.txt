@@ -1,0 +1,60 @@
+PLACEMENT ELIGIBILITY SUMMARY
+========================================
+
+J01 - Zentrix Software
+Eligible Students: 0
+Status: needs_review
+
+J02 - Bluepeak Systems
+Eligible Students: 0
+Status: needs_review
+
+J03 - Kovai Motors
+Eligible Students: 0
+Status: needs_review
+
+J04 - Medilink Health
+Eligible Students: 0
+Status: needs_review
+
+J05 - Aster Data Labs
+Eligible Students: 0
+Status: needs_review
+
+J06 - GreenGrid Energy
+Eligible Students: 0
+Status: needs_review
+
+J07 - BuildRight Infra
+Eligible Students: 0
+Status: needs_review
+
+J08 - Nexa Consulting
+Eligible Students: 0
+Status: needs_review
+
+
+STUDENTS ELIGIBLE FOR NO JOB
+========================================
+27CS001 - Arun Kumar
+27IT002 - Lakshmi P
+26CS010 - Gokul R
+27AD003 - Meena S
+27CS004 - Rahul M
+27IT005 - Divya K
+27ME006 - Karthik V
+27EE007 - Nithya R
+26EC008 - Sanjay P
+26EE009 - Priya S
+27EC011 - Vishal K
+27CV012 - Anitha M
+27ME013 - Bharath S
+27AD014 - Kavya R
+27CS015 - Manoj T
+26IT016 - Harini P
+27EE017 - Suresh V
+27CV018 - Keerthana D
+26ME019 - Praveen R
+27EC020 - Swetha N
+27AD021 - Ajay Kumar
+26CS022 - Pavithra L
